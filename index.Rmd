@@ -1,55 +1,35 @@
 --- 
-title: "A Minimal Book Example"
-author: "John Doe"
+title: "Experimentação Agrícola"
+author: "Alan R. Panosso <alan.panosso@unesp.br>"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
 # url: your book url like https://bookdown.org/yihui/bookdown
 # cover-image: path to the social sharing image like images/cover.jpg
-description: |
-  This is a minimal example of using the bookdown package to write a book.
-  The HTML output format for this example is bookdown::gitbook,
-  set in the _output.yml file.
+description: "Disciplina ministrada aos primeiros semestres de cada ano no curso de Graduação e Pós-graduação em Agronomia (Ciência do Solo e Genética e Melhoramento de Plantas) da Faculdade de Ciências Agrárias e Veterinárias (FCAV) da UNESP de Jaboticabal."
 link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
-# About
-
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
-
-## Usage 
-
-Each **bookdown** chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter *must* start with a first-level heading: `# A good chapter`, and can contain one (and only one) first-level heading.
-
-Use second-level and higher headings within chapters like: `## A short section` or `### An even shorter section`.
-
-The `index.Rmd` file is required, and is also your first book chapter. It will be the homepage when you render the book.
-
-## Render book
-
-You can render the HTML version of this example book without changing anything:
-
-1. Find the **Build** pane in the RStudio IDE, and
-
-1. Click on **Build Book**, then select your output format, or select "All formats" if you'd like to use multiple formats from the same book source files.
-
-Or build the book from the R console:
-
-```{r, eval=FALSE}
-bookdown::render_book()
+# Bem-vindos!! {-}
+```{r echo=FALSE, out.width = "300px"}
+knitr::include_graphics("img/logo_22_unesp.png")
 ```
 
-To render this example to PDF as a `bookdown::pdf_book`, you'll need to install XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.org/tinytex/>.
+# Histórico e Justificativa
 
-## Preview book
+O Departamento de Engenharia e Ciências Exatas ([DECEx](https://www.fcav.unesp.br/#!/engenharia)), por mais de $40$ anos, tem demonstrado competência nas linhas de pesquisa em Estatística, Física, Informática, Matemática e Agrometeorologia, conferindo excelência ao campus da Unesp – Jaboticabal. 
 
-As you work, you may start a local server to live preview this HTML book. This preview will update as you edit the book when you save individual .Rmd files. You can start the server in a work session by using the RStudio add-in "Preview book", or from the R console:
+O DECEx participa ativamente na formação de alunos dos cursos de graduação, não somente pelas disciplinas oferecidas, mas também pelas orientações em Iniciação Científica, Trabalhos de Conclusão de Curso, Teses e Dissertações e inúmeros artigos publicados em revistas e eventos nacionais e internacionais.
 
-```{r eval=FALSE}
-bookdown::serve_book()
-```
+O DECEx presta serviços à comunidade (unespiana e externa ao câmpus), por meio de assessoria e consultoria nas áreas de estatística aplicada, informática, matemática e agrometeorologia, além de oferecer cursos (temáticos, difusão de conhecimento e aperfeiçoamento) e palestras nas referidas áreas. Em $2016$ o DECEx contava com $14$ docentes, $5$ Titulares, $3$ Livre Docentes e $6$ Assistentes Doutores. 
+
+Atualmente, em vista das aposentadorias e junção entre departamentos ocorridos na unidade, o departamento conta com $19$ docentes, ($3$ Titulares, $6$ Livre Docentes e $10$ Assistentes Doutores) sendo que $15$ docentes estão credenciados em Programas de Pós-Graduação da UNESP (Administração, Agronomia, Medicina Veterinária e Zootecnia), todos reconhecidos pela CAPES.  
+
+Assim, é oportuna a abertura do Concurso para professor Adjunto visando a manutenção da qualificação do quadro do departamento, devido às crescentes demandas em aulas, orientações e mérito do DECEx nas solicitações de bolsas e projetos de pesquisa junto aos órgãos de fomento. A titulação do professor em **Adjunto** determina seu engajamento em grupos de pesquisa consolidados na Universidade, com linhas de pesquisa afins, as quais têm sido bem avaliadas junto aos pares. Em consequência, a qualificação docente incrementa sua participação em cargos e/ou órgãos de gestão na Unidade e/ou na Universidade, além das atividades fins na extensão, papel este primordial para a Instituição na contrapartida para a sociedade. 
+
+A disciplina de **Experimentação Agrícola** faz parte do quadro de disciplinas do Curso de Graduação em Engenharia Agronômica e compõem o conteúdo básico de disciplinas da Pós-Graduação da FCAV/UNESP que configuram uma abordagem da Grande Área de Ciências Exatas, demonstrando a relevância que a realização do concurso tem para o departamento em questão. A Estatística Experimental está presente em diversas linhas de pesquisa, tais como, genética e melhoramento de plantas, entomologia agrícola, produção vegetal e ciência do solo. Assim, entende-se que seja justificável a abertura do Concurso de professor Adjunto que atenda o DECEx, a Unidade e a Universidade/Sociedade, na qualificação de seus profissionais.
 
 
 ```{r include=FALSE}
