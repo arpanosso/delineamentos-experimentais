@@ -7,19 +7,19 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 # url: your book url like https://bookdown.org/yihui/bookdown
 # cover-image: path to the social sharing image like images/cover.jpg
-description: "Disciplina ministrada aos primeiros semestres de cada ano no curso de Graduação e Pós-graduação em Agronomia (Ciência do Solo e Genética e Melhoramento de Plantas) da Faculdade de Ciências Agrárias e Veterinárias (FCAV) da UNESP de Jaboticabal."
+description: "Disciplina ministrada aos segundos semestres de cada ano no curso de Graduação e Pós-graduação em Agronomia (Ciência do Solo e Genética e Melhoramento de Plantas) da Faculdade de Ciências Agrárias e Veterinárias (FCAV) da UNESP de Jaboticabal."
 link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
-# Bem-vindos!! {-}
+#  {-}
 ```{r echo=FALSE, out.width = "300px"}
 knitr::include_graphics("img/logo_22_unesp.png")
 ```
 
 # Histórico e Justificativa
 
-O Departamento de Engenharia e Ciências Exatas ([DECEx](https://www.fcav.unesp.br/#!/engenharia)), por mais de $40$ anos, tem demonstrado competência nas linhas de pesquisa em Estatística, Física, Informática, Matemática e Agrometeorologia, conferindo excelência ao campus da Unesp – Jaboticabal. 
+O Departamento de Engenharia e Ciências Exatas ([DECEx](https://www.fcav.unesp.br/#!/engenharia)), por mais de $40$ anos, tem demonstrado competência nas linhas de pesquisa em Estatística, Física, Informática, Matemática e Agrometeorologia, conferindo excelência ao campus da [Unesp – Jaboticabal](https://www.fcav.unesp.br/). 
 
 O DECEx participa ativamente na formação de alunos dos cursos de graduação, não somente pelas disciplinas oferecidas, mas também pelas orientações em Iniciação Científica, Trabalhos de Conclusão de Curso, Teses e Dissertações e inúmeros artigos publicados em revistas e eventos nacionais e internacionais.
 
