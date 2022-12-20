@@ -8,7 +8,7 @@ Portanto, o planejamento de experimentos e análises dos resultados, estão inti
 
 Isto pode ser ilustrado por meio da representação gráfica da circularidade do método científico.
 
-```{r echo=FALSE, fig.cap="Circularidade do método científico.",fig.align='center',out.width = "1000px"}
+```{r echo=FALSE, fig.cap="Circularidade do método científico.",fig.align='center',out.width = "1200px"}
 knitr::include_graphics("img/circularidade.png")
 ```
 

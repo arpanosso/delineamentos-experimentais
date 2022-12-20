@@ -1,9 +1,8 @@
-fig:unnamed-chunk-3
+fig:unnamed-chunk-2
 fig:nice-fig
 tab:nice-tab
 eq:binom
 thm:tri
-histórico-e-justificativa
 introdução-ao-estudo-de-experimentação
 cross
 chapters-and-sub-chapters
