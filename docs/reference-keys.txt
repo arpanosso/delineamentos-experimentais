@@ -4,6 +4,7 @@ tab:nice-tab
 eq:binom
 thm:tri
 introdução-ao-estudo-de-experimentação
+enunciado-do-problema
 cross
 chapters-and-sub-chapters
 captioned-figures-and-tables

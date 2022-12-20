@@ -1,7 +1,5 @@
 --- 
-title: |
-  ![](img/logo_22_unesp.png){width=500px}|  
-  |:-:|
+title: "Experimentação Agrícola"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -12,9 +10,7 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
-# Experimentação Agrícola {-}
-
-## Histórico e Justificativa {-}
+# Histórico e Justificativa {-}
 
 O Departamento de Engenharia e Ciências Exatas ([DECEx](https://www.fcav.unesp.br/#!/engenharia)), por mais de $40$ anos, tem demonstrado competência nas linhas de pesquisa em Estatística, Física, Informática, Matemática e Agrometeorologia, conferindo excelência ao campus da [Unesp – Jaboticabal](https://www.fcav.unesp.br/). 
 

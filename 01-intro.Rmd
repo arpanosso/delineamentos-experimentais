@@ -12,3 +12,46 @@ Isto pode ser ilustrado por meio da representação gráfica da circularidade do
 knitr::include_graphics("img/circularidade.png")
 ```
 
+Fica evidente nesse esquema que as técnicas de planejamento devem ser utilizadas entre as etapas $(1)$ e $(2)$ e os métodos de análise estatística devem ser utilizados na etapa $(3)$.
+
+Agora vamos desenvolver um pouco mais esta ideia, assim, podemos dizer que uma pesquisa científica, **estatisticamente planejada**, deve conter as seguintes etapas.
+
+
+1. Enunciado do problema com elaboração de hipótese.
+  
+2. Escolha dos fatores (variáveis independentes) que devem ser incluídos no estudo.
+
+3. Escolha da unidade experimental e da unidade de observação.
+
+4. Escolha das variáveis que serão medidas na unidades observacionais.
+
+5. Determinação das regras e procedimentos pelos os quais os diferentes tratamentos serão atribuídos às unidades experimentais.
+
+6. Análise estatística dos resultados
+
+7. Relatório final contendo conclusões com medidas de precisão das estimativas, interpretação dos resultados, com possíveis referências a outras pesquisas similares e uma avaliação dos itens $1$ a $6$ com sugestões para possíveis alterações em pesquisas futuras.
+
+A seguir será apresentada uma ilustração destas etapas com exemplos.
+
+## Enunciado do problema
+
+Como vimos, uma pesquisa científica inicia-se sempre com formulações de hipóteses. Essas hipóteses são primeiramente formuladas em termos científicos dentro da área de estudo (hipótese científica) e em seguida devem ser expressas em termos estatísticos (hipótese estatística). 
+
+Nesse sentido, deve haver uma correspondência perfeita entre as hipóteses científicas e estatísticas para evitar ambiguidade.
+
+De acordo com @StatforExp2005, é possível conduzir uma investigação sem a formulação de uma hipótese estatística, mas impossível fazê-lo sem conhecimento do assunto, ou seja a formulação de uma hipótese científica. No entanto, usando métodos estatísticos, a convergência para uma solução é acelerada e um bom investigador se torna um ainda melhor.
+
+Assim, no enunciado do problema a hipótese científica deve ser formulada de maneira precisa e objetiva. Por exemplo:
+
+  > Um pesquisador está interessado em estudar o efeito de vários adubos, que diferem pela quantidade de nitrogênio, na produção de uma determinada cultura.
+
+Esse objetivo pode ser atingido se planejarmos a pesquisa como uma das seguintes finalidade:
+
+  * comparar as médias da produção da cultura obtidas com cada um dos adubos **(igualdade da médias)**.
+  
+  * estabelecer uma relação funcional entre a produção da cultura e a quantidade de nitrogênio.
+
+
+
+
+
