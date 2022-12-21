@@ -52,6 +52,25 @@ Esse objetivo pode ser atingido se planejarmos a pesquisa como uma das seguintes
   * estabelecer uma relação funcional entre a produção da cultura e a quantidade de nitrogênio.
 
 
+## Escolha dos fatores e seus respectivos níveis
+
+No exemplo anterior a variável independente "adubo" é um **fator** e os tipos de adubos são os **níveis** deste fator ou tratamentos.
+
+
+Assim, em um experimento para se estudar o efeito de $4$ adubos e $3$ espaçamentos de plantio na produção de uma cultura teríamos dois fatores: adubos com $4$ níveis e espaçamentos com $3$ níveis.
+
+Podemos dizer que este experimeto envolve $12$ tratamentos correspondentes às combinações dos níveis dos dois fatores.
+
+Pelo próprio conceito de fator, vemos que em um experimento a escolha dos fatores e seus respectivos níveis é basicamente um problema do pesquisador. No entanto, é importante para o planejamento e análise distinguirmos as duas situações a seguir.
+
+> **a)** Uma fazenda de produção de leite adquire $5$ vacas de uma determinada raça para a produção de leite e está interessada em realizar um exprimento para verificar se as 5 vacas são homogêneas quanto a produção de leite.
+
+> **b)** A mesma fazenda de produção de leite está interessada em realizar um experimento para verificar se a produção de leite de vacas de uma determinada raça é homogênea. Como a população de desta raça é muito grande, o pesquisador decidiu realizar o experimento com uma amostra de $5$ vacas, mas as conclusões devem ser estendidas para a população de vacas.
+
+No exemplo **a** dizemos que o fator "vaca" é <span style="background-color:white; color:#a41a1a;
+font-family:Georgia; font-size:1.5em;"> fixo </span> e no exemplo **b** o fator vaca é <span style="background-color:white; color:#a41a1a;
+font-family:Georgia; font-size:1.5em;"> aleatório </span>
+
 
 
 

@@ -5,6 +5,7 @@ eq:binom
 thm:tri
 introdução-ao-estudo-de-experimentação
 enunciado-do-problema
+escolha-dos-fatores-e-seus-respectivos-níveis
 cross
 chapters-and-sub-chapters
 captioned-figures-and-tables
