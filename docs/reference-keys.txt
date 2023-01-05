@@ -1,4 +1,6 @@
 fig:unnamed-chunk-2
+fig:unnamed-chunk-3
+fig:unnamed-chunk-4
 fig:nice-fig
 tab:nice-tab
 eq:binom
@@ -6,6 +8,9 @@ thm:tri
 introdução-ao-estudo-de-experimentação
 enunciado-do-problema
 escolha-dos-fatores-e-seus-respectivos-níveis
+escolha-de-unidade-experimental
+escolha-das-variáveis-a-serem-medidas
+regras-segundo-as-quais-os-tratamentos-são-atribuidos-às-unidades-experimentais
 cross
 chapters-and-sub-chapters
 captioned-figures-and-tables
