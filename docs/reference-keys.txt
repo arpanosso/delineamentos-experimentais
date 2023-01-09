@@ -10,7 +10,7 @@ enunciado-do-problema
 escolha-dos-fatores-e-seus-respectivos-níveis
 escolha-de-unidade-experimental
 escolha-das-variáveis-a-serem-medidas
-regras-segundo-as-quais-os-tratamentos-são-atribuidos-às-unidades-experimentais
+regras-segundo-as-quais-os-tratamentos-são-atribuídos-às-unidades-experimentais
 cross
 chapters-and-sub-chapters
 captioned-figures-and-tables
